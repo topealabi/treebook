@@ -9,3 +9,10 @@ two:
   
   content: MyText
   user: tope
+
+three:
+  
+  content: "Hello my name is jim"
+  user: jim
+
+

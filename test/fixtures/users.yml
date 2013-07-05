@@ -4,3 +4,8 @@
   profile_name : "topealabi"
   email : "tope@ondocorp.com"
  
+ jim:
+   first_name : "jim"
+   last_name : "bowie"
+   profile_name : "jimbowie"
+   email : "jimbowie@example.com"
